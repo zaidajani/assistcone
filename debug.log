@@ -1,0 +1,18 @@
+[2026-03-11T17:49:23.019Z] Request: {"agentId":"69b16863d085601968843997","message":"hi what is informifier about?","conversationId":null}
+[2026-03-11T17:49:23.021Z] QDRANT_URL: https://83ea9a0a-dfe6-435e-98e3-ecb6b1103096.us-west-2-0.aws.cloud.qdrant.io
+[2026-03-11T17:51:02.282Z] Request: {"agentId":"69b16863d085601968843997","message":"check clerk","conversationId":null}
+[2026-03-11T17:51:02.283Z] QDRANT_URL: https://83ea9a0a-dfe6-435e-98e3-ecb6b1103096.us-west-2-0.aws.cloud.qdrant.io
+[2026-03-11T17:51:02.284Z] CLERK_KEY_SET: true
+[2026-03-11T17:51:35.545Z] Request: {"agentId":"71ba33b2-8dd7-482b-bca2-8a27898cb326","message":"hi","conversationId":null}
+[2026-03-11T17:51:35.545Z] QDRANT_URL: https://83ea9a0a-dfe6-435e-98e3-ecb6b1103096.us-west-2-0.aws.cloud.qdrant.io
+[2026-03-11T17:51:35.545Z] CLERK_KEY_SET: true
+[2026-03-11T17:51:45.376Z] Request: {"agentId":"71ba33b2-8dd7-482b-bca2-8a27898cb326","message":"tell me what is informifier about","conversationId":"69b1aba71378113f8489b1fc"}
+[2026-03-11T17:51:45.376Z] QDRANT_URL: https://83ea9a0a-dfe6-435e-98e3-ecb6b1103096.us-west-2-0.aws.cloud.qdrant.io
+[2026-03-11T17:51:45.376Z] CLERK_KEY_SET: true
+[2026-03-11T17:55:56.197Z] Request: {"agentId":"71ba33b2-8dd7-482b-bca2-8a27898cb326","message":"tell me what is informifier about","conversationId":null}
+[2026-03-11T17:55:56.198Z] QDRANT_URL: https://83ea9a0a-dfe6-435e-98e3-ecb6b1103096.us-west-2-0.aws.cloud.qdrant.io
+[2026-03-11T17:55:56.198Z] CLERK_KEY_SET: true
+[2026-03-11T17:58:38.124Z] Request: {"agentId":"71ba33b2-8dd7-482b-bca2-8a27898cb326","message":"Hi what is informifier?","conversationId":null}
+[2026-03-11T17:58:38.125Z] QDRANT_URL: https://83ea9a0a-dfe6-435e-98e3-ecb6b1103096.us-west-2-0.aws.cloud.qdrant.io
+[2026-03-11T17:59:03.718Z] Request: {"agentId":"71ba33b2-8dd7-482b-bca2-8a27898cb326","message":"How is the integration process? ","conversationId":"69b1ad4e1378113f8489b212"}
+[2026-03-11T17:59:03.718Z] QDRANT_URL: https://83ea9a0a-dfe6-435e-98e3-ecb6b1103096.us-west-2-0.aws.cloud.qdrant.io
