@@ -1,9 +1,0 @@
-{
-	"id": "CZuOmk07KFdDZGc",
-	"json": "{\"id\":\"CZuOmk07KFdDZGc\",\"url\":\"https://shipfa.st/\",\"loadedUrl\":\"https://shipfa.st/\",\"uniqueKey\":\"https://shipfa.st\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-03-11T18:53:09.357Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://shipfa.st",
-	"url": "https://shipfa.st/"
-}
